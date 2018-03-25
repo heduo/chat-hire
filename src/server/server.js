@@ -5,6 +5,8 @@ const model = require('./model');
 const Chat = model.getModel('chat');
 const app = express();
 
+const PORT = process.env.PORT || 4000;
+// console.log(process.env);
 
 // work with express
 const server = require('http').Server(app);
@@ -12,7 +14,7 @@ const io = require('socket.io')(server);
 
  app.use(express.static('./build'))
 
-app.get('/', function (req, res) {
+app.get('*', function (req, res) {
     res.sendFile('./build/index.html')
 })
 
@@ -36,6 +38,6 @@ app.use(bodyParser.json());
 app.use('/user', userRouter);
 
 
-server.listen(4000, '0.0.0.0', function(){
-    console.log('listining to port ' + 4000);
+server.listen(PORT, function(){
+    console.log('listining to port ' + PORT);
 });
