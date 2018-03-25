@@ -61,7 +61,7 @@
   },
   "scripts": {
     "start": "node src/server/server.js",
-    "dev": "concurrently 'npm run react' 'npm run server'",
+    "dev": "concurrently 'yarn run react' 'yarn run server'",
     "server": "nodemon src/server/server.js",
     "react": "node scripts/start.js",
     "build": "node scripts/build.js",
