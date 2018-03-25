@@ -5,7 +5,7 @@ const model = require('./model');
 const Chat = model.getModel('chat');
 const app = express();
 
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 5000;
 
 // work with express
 const server = require('http').Server(app);
