@@ -5,7 +5,6 @@ const model = require('./model');
 const Chat = model.getModel('chat');
 const app = express();
 
-const PORT = process.env.PORT || 4000;
 
 // work with express
 const server = require('http').Server(app);
@@ -37,6 +36,6 @@ app.use(bodyParser.json());
 app.use('/user', userRouter);
 
 
-server.listen(PORT, function(){
-    console.log('listining to port ' + PORT);
+server.listen(4000, '0.0.0.0', function(){
+    console.log('listining to port ' + 4000);
 });
