@@ -2,77 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e98aa0c-4be7-4b8c-ac0c-7a8f0ad825f8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/asset-manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/service-worker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.47232730.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.47232730.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.e4f2931d.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.e4f2931d.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/assistant.492e6bd9.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/astronaut.2162a06f.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/boy.efe01b90.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/businessman.b1cef4ad.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/captain.bb768236.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/cashier.07c53666.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/chef.3d45452b.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/concierge.13e9fe6f.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/cooker.bf9e2e1d.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/courier.f8688959.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/croupier-1.21f68ae1.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/croupier.5e4f6dcd.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/detective.971bc564.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/disc-jockey.bd5d4453.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/diver.e4bd4c4b.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/doctor-1.ee90fb5e.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/doctor.0e75b6ff.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/engineer.f8a39b5d.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/farmer.29ef8f14.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/firefighter-1.5d40fa62.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/firefighter.cb27a085.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/gentleman.adc24055.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/girl.3db93ee6.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/journalist.0f8f6002.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/judge.f5d068e2.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/loader.d556bf07.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/maid.334391df.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/manager.3fffdd46.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/me.f4d00882.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/meActive.94ada234.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/miner.205f8880.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/motorcyclist.7d02f5b3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/msg.2b33a1bd.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/msgActive.92384a66.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/nun.2f6c632e.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/nurse.8d38ec36.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/pilot.5e131a19.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/policeman.aff9dde8.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/postman.74e02e43.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/priest.7969df98.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/scientist.075d0651.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/sheriff.0b2bd99c.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/showman.8f55cb26.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/soldier-1.f27e57cd.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/soldier.b1f4696d.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/stewardess.9df06db7.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/surgeon.65f5a535.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/swat.4bda1da3.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/taxi-driver.62629aa1.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/teacher.40de9ae2.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/thief.8ac7594d.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/users.9879af2c.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/usersActive.23045ead.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/waiter.ba494008.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/welder.48b6321f.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/worker-1.f7be521e.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/worker.20f1f5b9.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build/static/media/writer.a8d169f3.svg" />
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/server/server.js" afterPath="$PROJECT_DIR$/src/server/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -89,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="255">
+              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -102,8 +33,8 @@
       <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/build.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            <state relative-caret-position="177">
+              <caret line="125" column="32" lean-forward="false" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -119,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/server/user.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-27">
@@ -132,8 +63,18 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-895">
+            <state relative-caret-position="-696">
               <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.dev.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3397">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -174,16 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/containers/Login/Login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -430,12 +361,12 @@
       <workItem from="1521530024915" duration="7132000" />
       <workItem from="1521620337362" duration="3398000" />
       <workItem from="1521944012613" duration="360000" />
-      <workItem from="1521975237324" duration="5952000" />
+      <workItem from="1521975237324" duration="6920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185527000" />
+    <option name="totallyTimeSpent" value="186495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
@@ -599,13 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-router-dom/Redirect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -751,14 +675,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Login/Login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -791,14 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/server/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/server/model.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -815,18 +723,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3397">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="125" column="32" lean-forward="false" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-895">
+        <state relative-caret-position="-696">
           <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/server/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="-27">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
