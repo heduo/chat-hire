@@ -61,12 +61,13 @@
   },
   "scripts": {
     "start": "node src/server/server.js",
-    "dev": "concurrently 'npm run react' 'npm run server'" ,
+    "dev": "concurrently 'yarn run react' 'yarn run server'",
     "server": "nodemon src/server/server.js",
     "react": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
+  "proxy": "http://localhost:4000",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,mjs}"
@@ -121,6 +122,7 @@
   },
   "devDependencies": {
     "antd-mobile": "^2.1.6",
-    "babel-plugin-import": "^1.6.5"
+    "babel-plugin-import": "^1.6.5",
+    "concurrently": "^3.5.1"
   }
 }
