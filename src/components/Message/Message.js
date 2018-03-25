@@ -24,17 +24,19 @@ class Message extends Component {
             const bLast = this.getLastMsg(b).create_time;
             return bLast - aLast;
         });
-        console.log(chatList);
+        console.log('chatList',chatList);
         return (
             <div>
 
                     {chatList.map(val => {
-                        console.log(val);
+                        //console.log(val);
                         const lastItem = this.getLastMsg(val);
                         const talkToId = val[0].from === myId ? val[0].to : val[0].from;
                         const unreadNum = val.filter(val=>!val.read && val.to === myId).length;
 
                         if (!userInfos[talkToId]){ return null};
+
+                        console.log('lastItem: ', lastItem);
 
                         return(
                             <List  key={lastItem._id}>

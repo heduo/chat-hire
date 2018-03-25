@@ -11,8 +11,13 @@ const PORT = process.env.PORT || 4000;
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
-app.use(express.static(__dirname + '/../../build'))
+ app.use(express.static('./build'))
 
+app.get('/', function (req, res) {
+    res.sendFile('./build/index.html')
+})
+
+// console.log(express.static(__dirname + '/../../build'));
 io.on('connection', function (socket) {
     console.log('connection established');
     socket.on('sendmsg', function (data) {
