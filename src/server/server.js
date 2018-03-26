@@ -14,9 +14,6 @@ const io = require('socket.io')(server);
 
  app.use(express.static('./build'))
 
-app.get('*', function (req, res) {
-    res.sendFile('./build/index.html')
-})
 
 // console.log(express.static(__dirname + '/../../build'));
 io.on('connection', function (socket) {
