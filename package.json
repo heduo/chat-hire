@@ -78,7 +78,7 @@
     "create-react-app",
     "react"
   ],
-  "proxy" : "http://localhost:4000",
+  "proxy" : "https://chat-hire.herokuapp.com:4000",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,mjs}"
