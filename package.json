@@ -63,10 +63,8 @@
     "whatwg-fetch": "2.0.3"
   },
   "scripts": {
-    "start": "node src/server/server.js",
-    "dev": "concurrently 'yarn run react' 'yarn run server'",
     "server": "nodemon src/server/server.js",
-    "react": "node scripts/start.js",
+    "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
     "heroku-postbuild": "npm run start"
