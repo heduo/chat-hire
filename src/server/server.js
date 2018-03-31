@@ -5,15 +5,11 @@ const model = require('./model');
 const Chat = model.getModel('chat');
 const app = express();
 
-const PORT = process.env.PORT || 4000;
-// console.log(process.env);
-
 // work with express
 const server = require('http').Server(app);
 const io = require('socket.io')(server);
 
- app.use(express.static('./build'))
-
+const PORT = process.env.PORT || 4000;
 
 // console.log(express.static(__dirname + '/../../build'));
 io.on('connection', function (socket) {
@@ -29,10 +25,15 @@ io.on('connection', function (socket) {
 });
 const userRouter = require('./user');
 
-
 app.use(cookieParser());
 app.use(bodyParser.json());
 app.use('/user', userRouter);
+
+
+if (process.env.NODE_ENV === 'production'){
+    console.log('production....');
+    app.use(express.static('./build'));
+}
 
 
 server.listen(PORT, function(){

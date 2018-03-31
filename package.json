@@ -71,14 +71,6 @@
     "test": "node scripts/test.js --env=jsdom",
     "heroku-postbuild": "npm run start"
   },
-
-  "keywords": [
-    "node",
-    "heroku",
-    "create-react-app",
-    "react"
-  ],
-  "proxy" : "https://chat-hire.herokuapp.com:4000",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,mjs}"

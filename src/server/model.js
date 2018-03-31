@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const DB_URL = 'mongodb://admin:admin@ds223609.mlab.com:23609/quickhire';
+const DB_URL = 'mongodb://admin:admin@ds223609.mlab.com:23609/quickhire'; // mlab.com, ilheduo
 mongoose.connect(DB_URL);
 
 const models = {
